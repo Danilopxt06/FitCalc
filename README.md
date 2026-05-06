@@ -11,8 +11,6 @@ Com base nos dados inseridos, a plataforma analisa o perfil do usuário e aprese
 ## Funcionalidades
 
 - Cálculo automático de **IMC**
-- Cálculo de **TMB**
-- Classificação do estado nutricional
 - Recomendações de treinos por grupo muscular
 - Interface simples e acessível
 
@@ -22,9 +20,9 @@ Promover conscientização sobre saúde e bem-estar, oferecendo informações pr
 
 ## Desenvolvimento
 
-Projeto educacional desenvolvido pela **Escola Ctrl+Play**  
-📍 Goiânia, Goiás
+Projeto educacional
 
 ## Tecnologias utilizadas
-
-*(Adicione aqui as tecnologias usadas no projeto, por exemplo: HTML, CSS, JavaScript, Python, etc.)*
+- HTML
+- CSS
+- JavaScript
